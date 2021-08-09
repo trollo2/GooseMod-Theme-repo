@@ -1,0 +1,9 @@
+{	
+  "name": "Neverlose.cc",
+  "description": "Neverlose theme",
+  "version": "1.0.5",
+  "author": "Benny",
+  "license": "MIT",
+  "theme": "Neverlose.theme.css",
+  "consent": "true"
+}
